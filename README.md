@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? Here's my email **espinoza2221668@mkt.ceu.edu.ph**
 
-- ⚡ Fun fact **I think I'm capable of doing anything, Jack of all trades, in short.**
+- ⚡ Fun fact about me, **I think I'm capable of doing anything, Jack of all trades, in short.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
