@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **espinoza2221668@mkt.ceu.edu.ph**
+- 📫 How to reach me? Here's my email **espinoza2221668@mkt.ceu.edu.ph**
 
 - ⚡ Fun fact **I think I'm capable of doing anything, Jack of all trades, in short.**
 
