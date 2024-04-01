@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/BxWe5mX.jpeg"> 
+
 <h1 align="center">Hi 👋, I'm Lucifer 😈</h1>
 <h3 align="center">A 2nd-Year College Student of Centro Escolar University - Legazpi Campus under The Bachelor of Science in Information Technology (BSIT) program.</h3>
 
