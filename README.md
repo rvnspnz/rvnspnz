@@ -1,7 +1,5 @@
-<img src="https://i.imgur.com/BxWe5mX.jpeg"> 
-
-<h1 align="center">Hi 👋, I'm Lucifer 😈</h1>
-<h3 align="center">A 2nd-Year College Student of Centro Escolar University - Legazpi Campus under The Bachelor of Science in Information Technology (BSIT) program.</h3>
+<h1 align="center">Hi 👋, I'm Arvin 😈</h1>
+<h3 align="center">A 3rd-Year College Student of Centro Escolar University - Legazpi Campus under The Bachelor of Science in Information Technology (BSIT) program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvnspnz&label=Profile%20views&color=0e75b6&style=flat" alt="rvnspnz" /> </p>
 
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about: **anything**
 
-- 📫 Reach me with: **espinoza2221668@mkt.ceu.edu.ph**
+- 📫 Reach me with: **espinozaarvins@gmail.com**
 
 - ⚡ Fun fact: **I think I'm capable of doing anything, Jack of all trades, in short.**
 
