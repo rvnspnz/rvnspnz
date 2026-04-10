@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvin 😈</h1>
-<h3 align="center">A 3rd-Year College Student of Centro Escolar University - Legazpi Campus under The Bachelor of Science in Information Technology (BSIT) program.</h3>
+<h3 align="center">A 4th-Year College Student of Centro Escolar University - Legazpi Campus under The Bachelor of Science in Information Technology (BSIT) program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvnspnz&label=Profile%20views&color=0e75b6&style=flat" alt="rvnspnz" /> </p>
 
